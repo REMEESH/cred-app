@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "name": "Samsung S23 Ultra",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "520",
+      "description": "Smartphone",
+      "createdAt": "2023-05-09",
+      "id": 2
+    }
+  ]
+}
